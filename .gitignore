@@ -2,6 +2,24 @@
  # 
  # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore 
  # 
+
+#Gitignore for personal project
+Setan Slayer/[Ll]ibrary/
+Setan Slayer/[Tt]emp/
+Setan Slayer/[Oo]bj/
+Setan Slayer/[Bb]uild/
+Setan Slayer/[Bb]uilds/
+Setan Slayer/[Ll]ogs/
+# Setan Slayer/[Uu]ser[Ss]ettings/
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
  [Ll]ibrary/ 
  [Tt]emp/ 
  [Oo]bj/ 
