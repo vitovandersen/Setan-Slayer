@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 400ee16532e07e94b9caa0adc2414add
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 725
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e7a96a95ecbc4aad66710d6027f43
+      internalID: -1027438776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 695
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa26d779e289548b65cd12f40842a2
+      internalID: -1666663676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 727
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1960e5a03a21245b6a9eb893b56e34
+      internalID: 1817579497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b61a0a7edcdb4a45bcb3ab559c9310b
+      internalID: -434260568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa232f6b30fbc2d489c94236ceb16fc0
+      internalID: 370695156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8070ef04d857c9439f5f08f3d20a646
+      internalID: -186706927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 544
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848ecf683106b9459974ba2a188f4de
+      internalID: -935527724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 526
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965793b9108f334ea8f62bbd458ad61
+      internalID: 944563230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 390
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ece3a90573fe42bd0a40d7dedf0a3
+      internalID: 1336768432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 435
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc016b3e911cd2c44bf9c2cff8174e8b
+      internalID: 166805051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fa7d0f6c7a6014aadab69cbddbea38
+      internalID: -225394414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 531
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a5dda14bdf864c8a90ceef82e3282
+      internalID: 1599818434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa41170db8623445877012064a25e34
+      internalID: 1702635987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 492
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a680e2e2fd62940aa66d62ed12010d
+      internalID: 1938127542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 526
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22871277fa631af4fac060ecd2a39a47
+      internalID: 2136087563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 526
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb8cf2467b05d428dc04600dc0b4cb
+      internalID: 711282231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_2: 1817579497
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_13: 1938127542
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_6: -935527724
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_4: 370695156
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_14: 2136087563
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_3: -434260568
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_11: 1599818434
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_12: 1702635987
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_15: 711282231
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_0: -1027438776
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_9: 166805051
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_10: -225394414
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_8: 1336768432
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_5: -186706927
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_16: -1407796540
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_1: -1666663676
+      logging_camp_and_village_buildings___rmmv_rtp_edit_by_starbirdresources_dbnwhwj_7: 944563230
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

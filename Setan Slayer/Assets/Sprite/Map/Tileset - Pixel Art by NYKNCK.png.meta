@@ -1,0 +1,3083 @@
+fileFormatVersion: 2
+guid: 9001329203a789549a4806e4ba2584af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e74d020fb0064d8c835a27f8d79be
+      internalID: 181152538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1c607773ce7544a270badb15b578c
+      internalID: 1482234493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5d7276372aba45a99ececb35d8ec9
+      internalID: -381205708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22403a6f1a1a144b53d222430f0332
+      internalID: 423552433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324dce08763f12447830126917eba22b
+      internalID: -1488641270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29bac3985eb864eb9e1071548d44f6
+      internalID: -1888509981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacdbaf3d1404014cb05e0fe50d186a6
+      internalID: 779111512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ed0351a35bff43bd7f206ef787203
+      internalID: 1331395060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87a62946ce44d49bad59cb825410e4
+      internalID: -1196347654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75317528316e357449e4aa2aa4580f82
+      internalID: 143321814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2897bd9a4bc8c4a96f87eaabd4956e
+      internalID: 79567735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774becc33a54d9418720a63405c511a
+      internalID: -597726641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2efe7f3fcbb1b4896725a6e9e3d097
+      internalID: 596918343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe436a406b59def4785c9fa9d398bdc4
+      internalID: 1862874403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1e6a0f768269a45a78c45001c37c16
+      internalID: -159004458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1f0615e0d771409992194c9ab0577
+      internalID: 1051713963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f78bceccef72488bf56d28b5c278c
+      internalID: 440077844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52584c086a68944fb7708fd82764e41
+      internalID: -552786431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a43686130231e14d889c503e999d32c
+      internalID: 1647235387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2764a80eba3c94180f6123c5e0ed2b
+      internalID: 436495438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9560f8037293843ab952e9ccbf2466
+      internalID: -1619882064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84f8bc5030ffa4dbe80ae41da63e3c
+      internalID: -1140490510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849009b229e10fa40a15322a9b6753a4
+      internalID: 2021123987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4188a5041c1b468fe8251ecec540e
+      internalID: 1652901472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0b0d93a02ca641a1d1275d65a94bf
+      internalID: 1745010042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a4ee3225ff6644bdf1ae271c3315a
+      internalID: 340061091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c94fba1fe782e4d9ec441653b82918
+      internalID: 1704580883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b7d26635f2c442b35ace5d1524acc
+      internalID: -705044156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141a3ed9943a9f641a5eeeb6e51e32c1
+      internalID: -1467296049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d6b47d1b46cab46b2923e790cf6305
+      internalID: -1362739529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a100795f5d4515347ba0874772a3290a
+      internalID: -1004133669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d3e8d3463c75b4b9fa145a0589c113
+      internalID: -1023274495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38fffdcca8dd04e86acc2392c8fb40
+      internalID: -1917828399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079af3c6172fed544b41110563c9b950
+      internalID: -2112759533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681fec11dd14214489a52a9cbac50c68
+      internalID: -744603128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd972349a3f7b0549866a35df94ddd4c
+      internalID: 993491415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d984e9f2e72d9246b9d0e6fe981f405
+      internalID: -886108507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d01ddf0de4d444d9b5221633c2f223
+      internalID: -1597357121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70794a322ab1fb842ac5b848ecc10a04
+      internalID: 1243442965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990ab26e360c2641be3ac6fae9c37d8
+      internalID: -1118904037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4039d7a53502cc142994f1ee20f62866
+      internalID: -1647250537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b956899731b84e8f392d003274ace
+      internalID: 1013102419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a9ade0e7d28248bc226a18ab1bf73
+      internalID: -1947125926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb582551ee5c3ef40a35396acdde3fb1
+      internalID: 1882870708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f271811769b1469088813e970ac57
+      internalID: 231605945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e76e936d7d2d4f99829f35f358bdf
+      internalID: -609482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18399dc208618654d993de23e99743d7
+      internalID: -2121902278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119ca5d94e9b534487e985464676b9d
+      internalID: -1712043066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf0ff30de01bb54593d7f68717a86f4
+      internalID: -1463474899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459cc14c95ac054e8986f22b85e9651
+      internalID: 1907001503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28a26ef1a067545aa4e374ecc208aa
+      internalID: -313915996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e920fd51554a06c4f94fbe4389d132cb
+      internalID: -1268563824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba2ca844957cb4aaa3d95ee2354e06
+      internalID: -1509993267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01945fc5893c6034cb6c17735f425fc6
+      internalID: -1923906831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb761a6bb976ee4792ecf0943300fa8
+      internalID: -1686509812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f9de5062ab934caa0b2044ccbe943
+      internalID: 282585724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b626e7f3c48c40b68aa1b1083fee9
+      internalID: -184742763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1d54db2d90284f99ca845d2f11088
+      internalID: -809403689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf199fad1cc8046aad40fcb9ce5090
+      internalID: 1813530711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679044a37f6e344cbe694415447d1dc
+      internalID: -143390471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc7ac047558a24ea55f28afa8a3047
+      internalID: -2138412829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23e32b6d774ca4db93af10ee246eb0
+      internalID: 1587568171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef643e9d62ef745bbdf9a45d9bd9af
+      internalID: 47883963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1956d29ee278c4f95e2fcbcaa86e3c
+      internalID: -49373190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1ad241cffb1349999ff7461bb38d0
+      internalID: 1339519786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab09748c3a7674cb225c583c055bdd
+      internalID: -2071240274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99cdc2118174240a5b1f06733670d6
+      internalID: -23885999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfd04ba0521d1c4ea8c04e8e8959603
+      internalID: 1429729815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230bb120d44c6c349b2f3b48c5a8187e
+      internalID: 2077420006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225cc9dded444a4cab013afebe507f3
+      internalID: 1700620084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea6febf3c723b4e93b8a17c713db89
+      internalID: 694659299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09efdb68587e4d4da30de0b505d2a7e
+      internalID: 1814230869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676a408f2f475e4eaf78aa79c86a983
+      internalID: -632390002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599909d23599c9742a7262b4d433ee10
+      internalID: -1152203819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f287aaadf97f546b3d092a2fa03a6e
+      internalID: -2055461937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bedc2324cbb2c3438ee6552372e3877
+      internalID: -1898363506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d0972be132e945bddda42788cdf96
+      internalID: -1983605413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618d82251c49e142a3f3d23b73ab151
+      internalID: -1969613322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71849553434754844bf7de324ae40ad1
+      internalID: 200594655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5330dae7729d9b04fb237870c85125aa
+      internalID: 1846361121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4da692c9e19d744b7f2f78bc45194a
+      internalID: -1040296305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa5b5c87aa00042b453f1b1c5207b1
+      internalID: -1453028695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf0b1ffdbcd9348a47208d91de9602
+      internalID: -677766027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018de8d207ace947ba82136c7b2bc79
+      internalID: 573384432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d04fd3bfa02040bf8ee7d54d16f5e
+      internalID: -2142589488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9590dda3817076e49b3d5a0141544a83
+      internalID: 460966740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_258
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a371d390df0d8b49b96bfbb2e45b4a1
+      internalID: -1075006406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcde7703adea754bac326846a95256d
+      internalID: -597547656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_260
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6201e0c1c2f443abc3a229b5f66cc
+      internalID: -247229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_261
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a764ed82781df4f9808533ecde1123
+      internalID: -599315241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_264
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ce760ad2767141945d6423867afd8
+      internalID: 829972661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_265
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41acee49071712b4ea1a47f9bfd1ed4d
+      internalID: 722088249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd178fba3c5ca2d43a613ddb44690b87
+      internalID: -1680432877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_267
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed45e4f31f244c44984c2b5490ab108c
+      internalID: 297925971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328c20d8214aee4b9631eece872fe85
+      internalID: -1405130556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_273
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e7e0fe8997ce44b80becac152951c
+      internalID: -1324760091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2336a567620209841bb34116bab6fdac
+      internalID: 1573293698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_275
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449ca24acaca7d4ead7c6b240cfdbf7
+      internalID: -1459609921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_276
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09abc92fb7049c6408f2dc1226febb39
+      internalID: 918804353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_277
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4254e7c32465f43bab394cb9fc6845
+      internalID: 732599009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_280
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee1a02e68e0994d96a0bdb76010c8b
+      internalID: 667265576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_281
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7ba4f19e29f14db59aa59c2be6643
+      internalID: -1294191887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_282
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182816670f47d4499b787a6d7dac07f
+      internalID: -1127999118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_283
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06926ecec7f8dfc4c90d37f9cb445dee
+      internalID: 2142581772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d30b33eb116034ab3813b4b315cd20
+      internalID: 1368617670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a23953cabe42934ca4c5696bbd42a57
+      internalID: 247760883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785d71b461703c48be72be88014fb37
+      internalID: -649150868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e059bb1ddb7cd488af96fc63a72a53
+      internalID: -2025700647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_292
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f83c426e3d83468c131307f0b1951
+      internalID: -1208193519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f455ca5cf762bb42b02ff35d2f7d400
+      internalID: -685864248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_304
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0a63e4bc501846afae47045959f5c
+      internalID: -608143469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_305
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb860e476a1266459824375ed36b09e
+      internalID: 1758546154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_306
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124837141fff3fc4bb976f7bd01ede02
+      internalID: -648630490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_307
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fde9a5ab444f941ae9ef7e6c79102a
+      internalID: 365976454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_308
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1700d7bedb686941858132e98c6b44e
+      internalID: 1475095536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset - Pixel Art by NYKNCK_309
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eabc3da87ce963449e226780cd48e6b
+      internalID: -75047301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset - Pixel Art by NYKNCK_214: -1920362447
+      Tileset - Pixel Art by NYKNCK_148: -2557944
+      Tileset - Pixel Art by NYKNCK_394: 819578461
+      Tileset - Pixel Art by NYKNCK_19: 1497523783
+      Tileset - Pixel Art by NYKNCK_451: 287595541
+      Tileset - Pixel Art by NYKNCK_310: 1731037989
+      Tileset - Pixel Art by NYKNCK_185: -1893804854
+      Tileset - Pixel Art by NYKNCK_47: 405982404
+      Tileset - Pixel Art by NYKNCK_218: -803595986
+      Tileset - Pixel Art by NYKNCK_343: 685587257
+      Tileset - Pixel Art by NYKNCK_152: 112893695
+      Tileset - Pixel Art by NYKNCK_336: -1173013881
+      Tileset - Pixel Art by NYKNCK_345: 558931810
+      Tileset - Pixel Art by NYKNCK_65: -1362739529
+      Tileset - Pixel Art by NYKNCK_313: 263068390
+      Tileset - Pixel Art by NYKNCK_63: 1237776622
+      Tileset - Pixel Art by NYKNCK_399: -1158564627
+      Tileset - Pixel Art by NYKNCK_201: -1670235143
+      Tileset - Pixel Art by NYKNCK_16: -1196347654
+      Tileset - Pixel Art by NYKNCK_134: 1076618768
+      Tileset - Pixel Art by NYKNCK_251: -1453028695
+      Tileset - Pixel Art by NYKNCK_391: -1138334597
+      Tileset - Pixel Art by NYKNCK_498: -1161039811
+      Tileset - Pixel Art by NYKNCK_434: 1902613347
+      Tileset - Pixel Art by NYKNCK_409: -948734100
+      Tileset - Pixel Art by NYKNCK_142: 1451539238
+      Tileset - Pixel Art by NYKNCK_246: -886500974
+      Tileset - Pixel Art by NYKNCK_457: 1081723375
+      Tileset - Pixel Art by NYKNCK_35: -152666552
+      Tileset - Pixel Art by NYKNCK_432: 881751471
+      Tileset - Pixel Art by NYKNCK_6: -1488641270
+      Tileset - Pixel Art by NYKNCK_454: -1727454436
+      Tileset - Pixel Art by NYKNCK_86: -1647250537
+      Tileset - Pixel Art by NYKNCK_307: 365976454
+      Tileset - Pixel Art by NYKNCK_125: -79317106
+      Tileset - Pixel Art by NYKNCK_167: -2069670303
+      Tileset - Pixel Art by NYKNCK_344: 400140364
+      Tileset - Pixel Art by NYKNCK_367: 482898654
+      Tileset - Pixel Art by NYKNCK_472: -299523466
+      Tileset - Pixel Art by NYKNCK_153: 361142547
+      Tileset - Pixel Art by NYKNCK_359: 761978442
+      Tileset - Pixel Art by NYKNCK_61: -1463383629
+      Tileset - Pixel Art by NYKNCK_192: 1972917676
+      Tileset - Pixel Art by NYKNCK_289: 247760883
+      Tileset - Pixel Art by NYKNCK_405: 270740053
+      Tileset - Pixel Art by NYKNCK_180: 898700269
+      Tileset - Pixel Art by NYKNCK_103: -246921613
+      Tileset - Pixel Art by NYKNCK_356: -1289837362
+      Tileset - Pixel Art by NYKNCK_385: 1131578061
+      Tileset - Pixel Art by NYKNCK_487: 2013509319
+      Tileset - Pixel Art by NYKNCK_439: -716282964
+      Tileset - Pixel Art by NYKNCK_114: 344999777
+      Tileset - Pixel Art by NYKNCK_396: -1604440597
+      Tileset - Pixel Art by NYKNCK_342: 498956311
+      Tileset - Pixel Art by NYKNCK_199: 316357292
+      Tileset - Pixel Art by NYKNCK_18: 1199060700
+      Tileset - Pixel Art by NYKNCK_414: 821276840
+      Tileset - Pixel Art by NYKNCK_383: 1494543964
+      Tileset - Pixel Art by NYKNCK_245: -1969613322
+      Tileset - Pixel Art by NYKNCK_213: -651490799
+      Tileset - Pixel Art by NYKNCK_0: 181152538
+      Tileset - Pixel Art by NYKNCK_334: -634440579
+      Tileset - Pixel Art by NYKNCK_460: -41375682
+      Tileset - Pixel Art by NYKNCK_388: -1250679421
+      Tileset - Pixel Art by NYKNCK_193: -1588483987
+      Tileset - Pixel Art by NYKNCK_351: 2100616625
+      Tileset - Pixel Art by NYKNCK_387: -1128150790
+      Tileset - Pixel Art by NYKNCK_225: 1587568171
+      Tileset - Pixel Art by NYKNCK_364: 1225626436
+      Tileset - Pixel Art by NYKNCK_247: 16332394
+      Tileset - Pixel Art by NYKNCK_272: -1405130556
+      Tileset - Pixel Art by NYKNCK_263: 217080168
+      Tileset - Pixel Art by NYKNCK_231: 1306039436
+      Tileset - Pixel Art by NYKNCK_279: -1861665819
+      Tileset - Pixel Art by NYKNCK_293: -685864248
+      Tileset - Pixel Art by NYKNCK_327: 186902494
+      Tileset - Pixel Art by NYKNCK_326: -322437316
+      Tileset - Pixel Art by NYKNCK_169: -2063880026
+      Tileset - Pixel Art by NYKNCK_280: 667265576
+      Tileset - Pixel Art by NYKNCK_41: -1140490510
+      Tileset - Pixel Art by NYKNCK_448: 1934196404
+      Tileset - Pixel Art by NYKNCK_274: 1573293698
+      Tileset - Pixel Art by NYKNCK_183: 551201191
+      Tileset - Pixel Art by NYKNCK_433: 829903293
+      Tileset - Pixel Art by NYKNCK_283: 2142581772
+      Tileset - Pixel Art by NYKNCK_340: -1600505288
+      Tileset - Pixel Art by NYKNCK_374: 450817412
+      Tileset - Pixel Art by NYKNCK_265: 722088249
+      Tileset - Pixel Art by NYKNCK_465: -912286413
+      Tileset - Pixel Art by NYKNCK_226: 47883963
+      Tileset - Pixel Art by NYKNCK_84: 1243442965
+      Tileset - Pixel Art by NYKNCK_277: 732599009
+      Tileset - Pixel Art by NYKNCK_428: -1414160221
+      Tileset - Pixel Art by NYKNCK_52: 2021123987
+      Tileset - Pixel Art by NYKNCK_254: -677766027
+      Tileset - Pixel Art by NYKNCK_138: 1874638704
+      Tileset - Pixel Art by NYKNCK_33: -1000145432
+      Tileset - Pixel Art by NYKNCK_112: 1300504038
+      Tileset - Pixel Art by NYKNCK_292: -1208193519
+      Tileset - Pixel Art by NYKNCK_233: 1429729815
+      Tileset - Pixel Art by NYKNCK_410: 721214385
+      Tileset - Pixel Art by NYKNCK_175: -608733595
+      Tileset - Pixel Art by NYKNCK_249: 1846361121
+      Tileset - Pixel Art by NYKNCK_365: 2132471402
+      Tileset - Pixel Art by NYKNCK_331: -1328097518
+      Tileset - Pixel Art by NYKNCK_406: 1471308000
+      Tileset - Pixel Art by NYKNCK_347: -1791334488
+      Tileset - Pixel Art by NYKNCK_503: 1240472421
+      Tileset - Pixel Art by NYKNCK_230: -987187696
+      Tileset - Pixel Art by NYKNCK_4: -381205708
+      Tileset - Pixel Art by NYKNCK_64: -1467296049
+      Tileset - Pixel Art by NYKNCK_239: 1814230869
+      Tileset - Pixel Art by NYKNCK_135: -12922457
+      Tileset - Pixel Art by NYKNCK_258: -1075006406
+      Tileset - Pixel Art by NYKNCK_441: -1385068443
+      Tileset - Pixel Art by NYKNCK_74: -865319868
+      Tileset - Pixel Art by NYKNCK_455: 780551270
+      Tileset - Pixel Art by NYKNCK_377: 52104083
+      Tileset - Pixel Art by NYKNCK_194: 1386373135
+      Tileset - Pixel Art by NYKNCK_259: -597547656
+      Tileset - Pixel Art by NYKNCK_452: -2016454736
+      Tileset - Pixel Art by NYKNCK_44: 703628713
+      Tileset - Pixel Art by NYKNCK_9: 1331395060
+      Tileset - Pixel Art by NYKNCK_499: -1155469872
+      Tileset - Pixel Art by NYKNCK_7: -1888509981
+      Tileset - Pixel Art by NYKNCK_149: 412421832
+      Tileset - Pixel Art by NYKNCK_278: -1247606763
+      Tileset - Pixel Art by NYKNCK_123: -743493838
+      Tileset - Pixel Art by NYKNCK_419: -1005269652
+      Tileset - Pixel Art by NYKNCK_296: 2006273674
+      Tileset - Pixel Art by NYKNCK_122: 20881096
+      Tileset - Pixel Art by NYKNCK_119: 1636503241
+      Tileset - Pixel Art by NYKNCK_369: -1926127982
+      Tileset - Pixel Art by NYKNCK_202: 1183736070
+      Tileset - Pixel Art by NYKNCK_275: -1459609921
+      Tileset - Pixel Art by NYKNCK_242: -2055461937
+      Tileset - Pixel Art by NYKNCK_120: -1151361668
+      Tileset - Pixel Art by NYKNCK_115: 1063600301
+      Tileset - Pixel Art by NYKNCK_15: -371529308
+      Tileset - Pixel Art by NYKNCK_402: 517381486
+      Tileset - Pixel Art by NYKNCK_463: 116956087
+      Tileset - Pixel Art by NYKNCK_77: -1323908290
+      Tileset - Pixel Art by NYKNCK_158: -169995210
+      Tileset - Pixel Art by NYKNCK_208: -1556878855
+      Tileset - Pixel Art by NYKNCK_181: 1153112127
+      Tileset - Pixel Art by NYKNCK_362: 1121173536
+      Tileset - Pixel Art by NYKNCK_424: 798690658
+      Tileset - Pixel Art by NYKNCK_371: -1544840489
+      Tileset - Pixel Art by NYKNCK_323: 688220986
+      Tileset - Pixel Art by NYKNCK_339: -1811494345
+      Tileset - Pixel Art by NYKNCK_235: 1700620084
+      Tileset - Pixel Art by NYKNCK_482: 2041179499
+      Tileset - Pixel Art by NYKNCK_150: 2024129833
+      Tileset - Pixel Art by NYKNCK_368: 535459395
+      Tileset - Pixel Art by NYKNCK_378: 997319288
+      Tileset - Pixel Art by NYKNCK_333: 349903398
+      Tileset - Pixel Art by NYKNCK_248: 200594655
+      Tileset - Pixel Art by NYKNCK_11: -1705329673
+      Tileset - Pixel Art by NYKNCK_227: -49373190
+      Tileset - Pixel Art by NYKNCK_107: -1018585118
+      Tileset - Pixel Art by NYKNCK_459: -886621032
+      Tileset - Pixel Art by NYKNCK_474: 190052849
+      Tileset - Pixel Art by NYKNCK_237: -232646619
+      Tileset - Pixel Art by NYKNCK_22: 596918343
+      Tileset - Pixel Art by NYKNCK_27: -330384129
+      Tileset - Pixel Art by NYKNCK_163: 282585724
+      Tileset - Pixel Art by NYKNCK_484: 1499485562
+      Tileset - Pixel Art by NYKNCK_508: -795926088
+      Tileset - Pixel Art by NYKNCK_78: -976773079
+      Tileset - Pixel Art by NYKNCK_10: 1718351218
+      Tileset - Pixel Art by NYKNCK_170: -1718995256
+      Tileset - Pixel Art by NYKNCK_197: 18130028
+      Tileset - Pixel Art by NYKNCK_200: 425594811
+      Tileset - Pixel Art by NYKNCK_338: 1062547729
+      Tileset - Pixel Art by NYKNCK_397: 332644394
+      Tileset - Pixel Art by NYKNCK_511: -1587922539
+      Tileset - Pixel Art by NYKNCK_473: -111807937
+      Tileset - Pixel Art by NYKNCK_357: -803198405
+      Tileset - Pixel Art by NYKNCK_82: -827732344
+      Tileset - Pixel Art by NYKNCK_325: -1255805534
+      Tileset - Pixel Art by NYKNCK_177: -809403689
+      Tileset - Pixel Art by NYKNCK_267: 297925971
+      Tileset - Pixel Art by NYKNCK_401: -744236519
+      Tileset - Pixel Art by NYKNCK_290: -649150868
+      Tileset - Pixel Art by NYKNCK_502: -588665180
+      Tileset - Pixel Art by NYKNCK_504: 1844811824
+      Tileset - Pixel Art by NYKNCK_54: 1745010042
+      Tileset - Pixel Art by NYKNCK_198: -1950790630
+      Tileset - Pixel Art by NYKNCK_252: -1214429559
+      Tileset - Pixel Art by NYKNCK_222: -888648134
+      Tileset - Pixel Art by NYKNCK_147: -1268563824
+      Tileset - Pixel Art by NYKNCK_50: -106214502
+      Tileset - Pixel Art by NYKNCK_314: -621442484
+      Tileset - Pixel Art by NYKNCK_355: 1928569731
+      Tileset - Pixel Art by NYKNCK_304: -608143469
+      Tileset - Pixel Art by NYKNCK_322: 978025076
+      Tileset - Pixel Art by NYKNCK_85: -1118904037
+      Tileset - Pixel Art by NYKNCK_182: -806725204
+      Tileset - Pixel Art by NYKNCK_298: -895492397
+      Tileset - Pixel Art by NYKNCK_354: 1901673012
+      Tileset - Pixel Art by NYKNCK_486: -592138129
+      Tileset - Pixel Art by NYKNCK_328: 549520088
+      Tileset - Pixel Art by NYKNCK_335: 1465655945
+      Tileset - Pixel Art by NYKNCK_312: -952837878
+      Tileset - Pixel Art by NYKNCK_403: -876269214
+      Tileset - Pixel Art by NYKNCK_1: 1482234493
+      Tileset - Pixel Art by NYKNCK_21: -597726641
+      Tileset - Pixel Art by NYKNCK_330: 66070965
+      Tileset - Pixel Art by NYKNCK_257: 460966740
+      Tileset - Pixel Art by NYKNCK_476: 126178528
+      Tileset - Pixel Art by NYKNCK_104: -1737320572
+      Tileset - Pixel Art by NYKNCK_129: -609482357
+      Tileset - Pixel Art by NYKNCK_244: -1983605413
+      Tileset - Pixel Art by NYKNCK_422: 1517311095
+      Tileset - Pixel Art by NYKNCK_45: -1905385475
+      Tileset - Pixel Art by NYKNCK_137: 1373896867
+      Tileset - Pixel Art by NYKNCK_301: -2032876526
+      Tileset - Pixel Art by NYKNCK_386: -73136836
+      Tileset - Pixel Art by NYKNCK_481: 2053906625
+      Tileset - Pixel Art by NYKNCK_361: 1465387284
+      Tileset - Pixel Art by NYKNCK_188: -1357562937
+      Tileset - Pixel Art by NYKNCK_350: 114954152
+      Tileset - Pixel Art by NYKNCK_38: 1647235387
+      Tileset - Pixel Art by NYKNCK_46: -387865829
+      Tileset - Pixel Art by NYKNCK_53: 1652901472
+      Tileset - Pixel Art by NYKNCK_360: -1983975828
+      Tileset - Pixel Art by NYKNCK_215: -1280951637
+      Tileset - Pixel Art by NYKNCK_68: -1004133669
+      Tileset - Pixel Art by NYKNCK_240: -632390002
+      Tileset - Pixel Art by NYKNCK_98: 737914601
+      Tileset - Pixel Art by NYKNCK_206: -886785416
+      Tileset - Pixel Art by NYKNCK_89: 1882870708
+      Tileset - Pixel Art by NYKNCK_300: -132831525
+      Tileset - Pixel Art by NYKNCK_404: 64381204
+      Tileset - Pixel Art by NYKNCK_467: 1515327518
+      Tileset - Pixel Art by NYKNCK_155: 841274430
+      Tileset - Pixel Art by NYKNCK_260: -247229716
+      Tileset - Pixel Art by NYKNCK_479: 1154275992
+      Tileset - Pixel Art by NYKNCK_190: -1041080542
+      Tileset - Pixel Art by NYKNCK_88: -1947125926
+      Tileset - Pixel Art by NYKNCK_299: -2061170776
+      Tileset - Pixel Art by NYKNCK_121: -1633258600
+      Tileset - Pixel Art by NYKNCK_266: -1680432877
+      Tileset - Pixel Art by NYKNCK_133: 1074734211
+      Tileset - Pixel Art by NYKNCK_291: -2025700647
+      Tileset - Pixel Art by NYKNCK_464: -1309399050
+      Tileset - Pixel Art by NYKNCK_423: 397513555
+      Tileset - Pixel Art by NYKNCK_438: -392385608
+      Tileset - Pixel Art by NYKNCK_496: -296046629
+      Tileset - Pixel Art by NYKNCK_187: 578283461
+      Tileset - Pixel Art by NYKNCK_256: -2142589488
+      Tileset - Pixel Art by NYKNCK_332: -1389222431
+      Tileset - Pixel Art by NYKNCK_324: -1281851860
+      Tileset - Pixel Art by NYKNCK_191: -403686989
+      Tileset - Pixel Art by NYKNCK_168: 197447513
+      Tileset - Pixel Art by NYKNCK_372: -1253005211
+      Tileset - Pixel Art by NYKNCK_421: 1826625158
+      Tileset - Pixel Art by NYKNCK_83: -1103520266
+      Tileset - Pixel Art by NYKNCK_270: -1079706584
+      Tileset - Pixel Art by NYKNCK_102: 1346564688
+      Tileset - Pixel Art by NYKNCK_34: 899650218
+      Tileset - Pixel Art by NYKNCK_79: -59439785
+      Tileset - Pixel Art by NYKNCK_282: -1127999118
+      Tileset - Pixel Art by NYKNCK_210: -1612275990
+      Tileset - Pixel Art by NYKNCK_461: -1215322454
+      Tileset - Pixel Art by NYKNCK_420: 210809718
+      Tileset - Pixel Art by NYKNCK_316: -45182613
+      Tileset - Pixel Art by NYKNCK_393: -1801833047
+      Tileset - Pixel Art by NYKNCK_171: -377308710
+      Tileset - Pixel Art by NYKNCK_2: 1651963480
+      Tileset - Pixel Art by NYKNCK_57: -705044156
+      Tileset - Pixel Art by NYKNCK_217: -589944522
+      Tileset - Pixel Art by NYKNCK_436: -1658346785
+      Tileset - Pixel Art by NYKNCK_151: 1014730379
+      Tileset - Pixel Art by NYKNCK_285: 1162320954
+      Tileset - Pixel Art by NYKNCK_408: 294316714
+      Tileset - Pixel Art by NYKNCK_485: 1288100459
+      Tileset - Pixel Art by NYKNCK_392: -2013937334
+      Tileset - Pixel Art by NYKNCK_81: -1597357121
+      Tileset - Pixel Art by NYKNCK_309: -75047301
+      Tileset - Pixel Art by NYKNCK_250: -1040296305
+      Tileset - Pixel Art by NYKNCK_111: -1536200520
+      Tileset - Pixel Art by NYKNCK_407: 405148477
+      Tileset - Pixel Art by NYKNCK_492: -750322494
+      Tileset - Pixel Art by NYKNCK_429: -1012473750
+      Tileset - Pixel Art by NYKNCK_109: 1392343552
+      Tileset - Pixel Art by NYKNCK_36: 440077844
+      Tileset - Pixel Art by NYKNCK_232: -23885999
+      Tileset - Pixel Art by NYKNCK_228: 1339519786
+      Tileset - Pixel Art by NYKNCK_352: 1907614767
+      Tileset - Pixel Art by NYKNCK_66: -1003328493
+      Tileset - Pixel Art by NYKNCK_116: 1711311722
+      Tileset - Pixel Art by NYKNCK_97: 1814159599
+      Tileset - Pixel Art by NYKNCK_255: 573384432
+      Tileset - Pixel Art by NYKNCK_99: -1761489672
+      Tileset - Pixel Art by NYKNCK_67: 676658491
+      Tileset - Pixel Art by NYKNCK_469: 267617809
+      Tileset - Pixel Art by NYKNCK_80: -886108507
+      Tileset - Pixel Art by NYKNCK_390: 1242843760
+      Tileset - Pixel Art by NYKNCK_509: 56816264
+      Tileset - Pixel Art by NYKNCK_449: 3715080
+      Tileset - Pixel Art by NYKNCK_319: -1727611411
+      Tileset - Pixel Art by NYKNCK_49: 604047714
+      Tileset - Pixel Art by NYKNCK_71: -2112759533
+      Tileset - Pixel Art by NYKNCK_60: 1698767812
+      Tileset - Pixel Art by NYKNCK_209: 1532034533
+      Tileset - Pixel Art by NYKNCK_14: 1414681830
+      Tileset - Pixel Art by NYKNCK_273: -1324760091
+      Tileset - Pixel Art by NYKNCK_411: 707412042
+      Tileset - Pixel Art by NYKNCK_287: 1195433320
+      Tileset - Pixel Art by NYKNCK_297: 2068127386
+      Tileset - Pixel Art by NYKNCK_31: -1778456433
+      Tileset - Pixel Art by NYKNCK_329: -317382293
+      Tileset - Pixel Art by NYKNCK_305: 1758546154
+      Tileset - Pixel Art by NYKNCK_30: 1451871949
+      Tileset - Pixel Art by NYKNCK_207: -1400282643
+      Tileset - Pixel Art by NYKNCK_253: 1312814775
+      Tileset - Pixel Art by NYKNCK_90: -1492828110
+      Tileset - Pixel Art by NYKNCK_118: 714805816
+      Tileset - Pixel Art by NYKNCK_76: 1848603391
+      Tileset - Pixel Art by NYKNCK_132: 575286956
+      Tileset - Pixel Art by NYKNCK_224: -2138412829
+      Tileset - Pixel Art by NYKNCK_20: 79567735
+      Tileset - Pixel Art by NYKNCK_140: -732727583
+      Tileset - Pixel Art by NYKNCK_418: 1273056121
+      Tileset - Pixel Art by NYKNCK_341: -147150929
+      Tileset - Pixel Art by NYKNCK_128: 231605945
+      Tileset - Pixel Art by NYKNCK_435: -974953584
+      Tileset - Pixel Art by NYKNCK_306: -648630490
+      Tileset - Pixel Art by NYKNCK_416: 65943557
+      Tileset - Pixel Art by NYKNCK_176: -184742763
+      Tileset - Pixel Art by NYKNCK_113: -2086498668
+      Tileset - Pixel Art by NYKNCK_219: 544579430
+      Tileset - Pixel Art by NYKNCK_93: -1601143818
+      Tileset - Pixel Art by NYKNCK_466: 1659279160
+      Tileset - Pixel Art by NYKNCK_489: 862049110
+      Tileset - Pixel Art by NYKNCK_96: 1981114570
+      Tileset - Pixel Art by NYKNCK_276: 918804353
+      Tileset - Pixel Art by NYKNCK_382: -936008950
+      Tileset - Pixel Art by NYKNCK_87: 1013102419
+      Tileset - Pixel Art by NYKNCK_195: 822426020
+      Tileset - Pixel Art by NYKNCK_205: 332458021
+      Tileset - Pixel Art by NYKNCK_480: 1532375179
+      Tileset - Pixel Art by NYKNCK_447: 1037505170
+      Tileset - Pixel Art by NYKNCK_55: 340061091
+      Tileset - Pixel Art by NYKNCK_184: 2011834274
+      Tileset - Pixel Art by NYKNCK_507: -652114971
+      Tileset - Pixel Art by NYKNCK_179: -143390471
+      Tileset - Pixel Art by NYKNCK_62: -417710659
+      Tileset - Pixel Art by NYKNCK_223: -2117016208
+      Tileset - Pixel Art by NYKNCK_186: -576439688
+      Tileset - Pixel Art by NYKNCK_29: 506634886
+      Tileset - Pixel Art by NYKNCK_462: 1870664804
+      Tileset - Pixel Art by NYKNCK_25: 1051713963
+      Tileset - Pixel Art by NYKNCK_363: 1633932984
+      Tileset - Pixel Art by NYKNCK_40: -1619882064
+      Tileset - Pixel Art by NYKNCK_173: 1289205605
+      Tileset - Pixel Art by NYKNCK_220: 974591560
+      Tileset - Pixel Art by NYKNCK_320: 2021281483
+      Tileset - Pixel Art by NYKNCK_490: -1432636551
+      Tileset - Pixel Art by NYKNCK_243: -1898363506
+      Tileset - Pixel Art by NYKNCK_268: -1986698533
+      Tileset - Pixel Art by NYKNCK_488: 648450330
+      Tileset - Pixel Art by NYKNCK_494: 312032446
+      Tileset - Pixel Art by NYKNCK_413: -376607829
+      Tileset - Pixel Art by NYKNCK_286: 1420900589
+      Tileset - Pixel Art by NYKNCK_497: 215891289
+      Tileset - Pixel Art by NYKNCK_284: -1894551941
+      Tileset - Pixel Art by NYKNCK_100: -2007491503
+      Tileset - Pixel Art by NYKNCK_196: -245471358
+      Tileset - Pixel Art by NYKNCK_446: 1184733458
+      Tileset - Pixel Art by NYKNCK_143: 656723061
+      Tileset - Pixel Art by NYKNCK_318: -950733430
+      Tileset - Pixel Art by NYKNCK_375: 1438134851
+      Tileset - Pixel Art by NYKNCK_37: -552786431
+      Tileset - Pixel Art by NYKNCK_380: -504955032
+      Tileset - Pixel Art by NYKNCK_69: -1023274495
+      Tileset - Pixel Art by NYKNCK_308: 1475095536
+      Tileset - Pixel Art by NYKNCK_5: 423552433
+      Tileset - Pixel Art by NYKNCK_456: -983858628
+      Tileset - Pixel Art by NYKNCK_91: -49874549
+      Tileset - Pixel Art by NYKNCK_144: -1463474899
+      Tileset - Pixel Art by NYKNCK_3: 788567868
+      Tileset - Pixel Art by NYKNCK_23: 1862874403
+      Tileset - Pixel Art by NYKNCK_136: -1893341532
+      Tileset - Pixel Art by NYKNCK_75: 194950792
+      Tileset - Pixel Art by NYKNCK_430: -472615120
+      Tileset - Pixel Art by NYKNCK_294: 1178768163
+      Tileset - Pixel Art by NYKNCK_303: -1692621405
+      Tileset - Pixel Art by NYKNCK_24: -159004458
+      Tileset - Pixel Art by NYKNCK_105: 765491334
+      Tileset - Pixel Art by NYKNCK_348: -1790847995
+      Tileset - Pixel Art by NYKNCK_211: 1998654115
+      Tileset - Pixel Art by NYKNCK_470: 562441125
+      Tileset - Pixel Art by NYKNCK_376: -679066319
+      Tileset - Pixel Art by NYKNCK_145: 1907001503
+      Tileset - Pixel Art by NYKNCK_440: 287805902
+      Tileset - Pixel Art by NYKNCK_48: -1486417744
+      Tileset - Pixel Art by NYKNCK_59: 499667835
+      Tileset - Pixel Art by NYKNCK_162: -1686509812
+      Tileset - Pixel Art by NYKNCK_178: 1813530711
+      Tileset - Pixel Art by NYKNCK_73: 993491415
+      Tileset - Pixel Art by NYKNCK_94: 2028168189
+      Tileset - Pixel Art by NYKNCK_398: 1411016825
+      Tileset - Pixel Art by NYKNCK_108: 1080226191
+      Tileset - Pixel Art by NYKNCK_189: 1591403150
+      Tileset - Pixel Art by NYKNCK_471: -1975134748
+      Tileset - Pixel Art by NYKNCK_458: 173580173
+      Tileset - Pixel Art by NYKNCK_241: -1152203819
+      Tileset - Pixel Art by NYKNCK_127: 1323192858
+      Tileset - Pixel Art by NYKNCK_131: -1712043066
+      Tileset - Pixel Art by NYKNCK_157: 922871768
+      Tileset - Pixel Art by NYKNCK_262: -1446909149
+      Tileset - Pixel Art by NYKNCK_427: -1796981320
+      Tileset - Pixel Art by NYKNCK_491: 1103236633
+      Tileset - Pixel Art by NYKNCK_130: -2121902278
+      Tileset - Pixel Art by NYKNCK_412: -1335048567
+      Tileset - Pixel Art by NYKNCK_437: -1946928913
+      Tileset - Pixel Art by NYKNCK_26: -1149070396
+      Tileset - Pixel Art by NYKNCK_500: -1410157450
+      Tileset - Pixel Art by NYKNCK_493: -1951227511
+      Tileset - Pixel Art by NYKNCK_501: 484036149
+      Tileset - Pixel Art by NYKNCK_238: 694659299
+      Tileset - Pixel Art by NYKNCK_445: -514631617
+      Tileset - Pixel Art by NYKNCK_317: 276863805
+      Tileset - Pixel Art by NYKNCK_417: 1782289680
+      Tileset - Pixel Art by NYKNCK_444: -1036887763
+      Tileset - Pixel Art by NYKNCK_32: 290700834
+      Tileset - Pixel Art by NYKNCK_346: -125442884
+      Tileset - Pixel Art by NYKNCK_139: -954611048
+      Tileset - Pixel Art by NYKNCK_431: 655961266
+      Tileset - Pixel Art by NYKNCK_443: 2144469010
+      Tileset - Pixel Art by NYKNCK_453: 168479510
+      Tileset - Pixel Art by NYKNCK_166: 1096178952
+      Tileset - Pixel Art by NYKNCK_17: 143321814
+      Tileset - Pixel Art by NYKNCK_92: -390285559
+      Tileset - Pixel Art by NYKNCK_13: -97483289
+      Tileset - Pixel Art by NYKNCK_400: 1216338533
+      Tileset - Pixel Art by NYKNCK_483: 1423639823
+      Tileset - Pixel Art by NYKNCK_302: -2062914687
+      Tileset - Pixel Art by NYKNCK_468: -1435581513
+      Tileset - Pixel Art by NYKNCK_349: -209949275
+      Tileset - Pixel Art by NYKNCK_70: -1917828399
+      Tileset - Pixel Art by NYKNCK_311: 1254012736
+      Tileset - Pixel Art by NYKNCK_154: -1757792952
+      Tileset - Pixel Art by NYKNCK_56: 1704580883
+      Tileset - Pixel Art by NYKNCK_58: -987285019
+      Tileset - Pixel Art by NYKNCK_384: -356169834
+      Tileset - Pixel Art by NYKNCK_295: 764179900
+      Tileset - Pixel Art by NYKNCK_28: -2114983576
+      Tileset - Pixel Art by NYKNCK_156: 547010625
+      Tileset - Pixel Art by NYKNCK_510: 1025314244
+      Tileset - Pixel Art by NYKNCK_395: -1597140494
+      Tileset - Pixel Art by NYKNCK_204: -1173075228
+      Tileset - Pixel Art by NYKNCK_442: -1566968918
+      Tileset - Pixel Art by NYKNCK_117: 1042912618
+      Tileset - Pixel Art by NYKNCK_370: -797296083
+      Tileset - Pixel Art by NYKNCK_161: -1923906831
+      Tileset - Pixel Art by NYKNCK_477: 1595299400
+      Tileset - Pixel Art by NYKNCK_8: 779111512
+      Tileset - Pixel Art by NYKNCK_264: 829972661
+      Tileset - Pixel Art by NYKNCK_478: 1280856815
+      Tileset - Pixel Art by NYKNCK_415: 1344394357
+      Tileset - Pixel Art by NYKNCK_358: -391306629
+      Tileset - Pixel Art by NYKNCK_506: 1487998594
+      Tileset - Pixel Art by NYKNCK_165: 1478591068
+      Tileset - Pixel Art by NYKNCK_426: -1592519381
+      Tileset - Pixel Art by NYKNCK_101: 218395683
+      Tileset - Pixel Art by NYKNCK_160: -1509993267
+      Tileset - Pixel Art by NYKNCK_42: 2008771912
+      Tileset - Pixel Art by NYKNCK_269: -554064205
+      Tileset - Pixel Art by NYKNCK_337: -102840041
+      Tileset - Pixel Art by NYKNCK_216: -1482629399
+      Tileset - Pixel Art by NYKNCK_379: 1579061776
+      Tileset - Pixel Art by NYKNCK_353: 821886772
+      Tileset - Pixel Art by NYKNCK_212: 76867938
+      Tileset - Pixel Art by NYKNCK_389: -1355927731
+      Tileset - Pixel Art by NYKNCK_229: -2071240274
+      Tileset - Pixel Art by NYKNCK_106: -2100926870
+      Tileset - Pixel Art by NYKNCK_110: -1619037834
+      Tileset - Pixel Art by NYKNCK_159: 1539243522
+      Tileset - Pixel Art by NYKNCK_425: -1844215635
+      Tileset - Pixel Art by NYKNCK_366: 1157095499
+      Tileset - Pixel Art by NYKNCK_315: -1222268770
+      Tileset - Pixel Art by NYKNCK_174: -776132820
+      Tileset - Pixel Art by NYKNCK_124: -680619706
+      Tileset - Pixel Art by NYKNCK_281: -1294191887
+      Tileset - Pixel Art by NYKNCK_450: 929430998
+      Tileset - Pixel Art by NYKNCK_146: -313915996
+      Tileset - Pixel Art by NYKNCK_95: -2132238762
+      Tileset - Pixel Art by NYKNCK_172: -1180538830
+      Tileset - Pixel Art by NYKNCK_321: -948457534
+      Tileset - Pixel Art by NYKNCK_221: -750852171
+      Tileset - Pixel Art by NYKNCK_126: -872759919
+      Tileset - Pixel Art by NYKNCK_236: 447679705
+      Tileset - Pixel Art by NYKNCK_475: 778244151
+      Tileset - Pixel Art by NYKNCK_164: 1278758711
+      Tileset - Pixel Art by NYKNCK_271: -2045428653
+      Tileset - Pixel Art by NYKNCK_141: 1968282894
+      Tileset - Pixel Art by NYKNCK_43: 1372040407
+      Tileset - Pixel Art by NYKNCK_288: 1368617670
+      Tileset - Pixel Art by NYKNCK_381: 1887010654
+      Tileset - Pixel Art by NYKNCK_505: 1295165888
+      Tileset - Pixel Art by NYKNCK_261: -599315241
+      Tileset - Pixel Art by NYKNCK_51: -1146605062
+      Tileset - Pixel Art by NYKNCK_495: -1150799689
+      Tileset - Pixel Art by NYKNCK_234: 2077420006
+      Tileset - Pixel Art by NYKNCK_72: -744603128
+      Tileset - Pixel Art by NYKNCK_203: 342014735
+      Tileset - Pixel Art by NYKNCK_12: -1435437346
+      Tileset - Pixel Art by NYKNCK_373: 267554527
+      Tileset - Pixel Art by NYKNCK_39: 436495438
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
