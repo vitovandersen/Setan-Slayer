@@ -41,3 +41,60 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Water
+    uniqueID: 2044067253
+    locked: 0
+  - name: Ground
+    uniqueID: 2771639399
+    locked: 0
+  - name: Grass Low
+    uniqueID: 3550413901
+    locked: 0
+  - name: Grass Medium
+    uniqueID: 985001105
+    locked: 0
+  - name: Wall behind ground
+    uniqueID: 584779753
+    locked: 0
+  - name: Grass High
+    uniqueID: 647787207
+    locked: 0
+  - name: Hill
+    uniqueID: 1435037275
+    locked: 0
+  - name: Wall On Road
+    uniqueID: 1717269441
+    locked: 0
+  - name: Roads
+    uniqueID: 3916503825
+    locked: 0
+  - name: Shadow
+    uniqueID: 2107230351
+    locked: 0
+  - name: Rock
+    uniqueID: 4133442767
+    locked: 0
+  - name: Wall
+    uniqueID: 3294751971
+    locked: 0
+  - name: Wall 2
+    uniqueID: 885320045
+    locked: 0
+  - name: Wall 3
+    uniqueID: 3360232635
+    locked: 0
+  - name: Player
+    uniqueID: 682545495
+    locked: 0
+  - name: Gerbang
+    uniqueID: 2772190951
+    locked: 0
+  - name: Tree and bush
+    uniqueID: 660522223
+    locked: 0
+  - name: Statue
+    uniqueID: 459781497
+    locked: 0
+  - name: Proops
+    uniqueID: 2220373853
+    locked: 0
